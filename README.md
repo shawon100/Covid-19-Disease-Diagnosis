@@ -1,11 +1,11 @@
-# Plant-Disease-Diagnosis-Flask
-Online Flask Web App for Plant Disease Diagnosis from Images <br>
+# Covid-19-Disease-Diagnosis-Flask
+Online Flask Web App for Covid-19 Disease Diagnosis from Images <br>
 
 <img src="demo.JPG" width="600" height="300"/><br><br>
 
 ## Required Tools
 ```
-Python 3.6 or greater, Tensorflow 2, Flask, Scikit Learn, Scikit Image
+Python 3.6 or greater, Tensorflow 2, Flask, Gevent, Scikit Learn
 ```
 
 ## Run
@@ -17,13 +17,12 @@ Open Browser at http://121.0.0.1:5000
 
 ## Dataset
 
-https://www.kaggle.com/emmarex/plantdisease
+https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
 
 
-## Implementation
+## Research Code
 
-
-https://www.kaggle.com/shawon10/plant-disease-classification-using-densenet121
+https://www.kaggle.com/shawon10/covid-19-diagnosis-from-images-using-densenet121/
 
 
 
