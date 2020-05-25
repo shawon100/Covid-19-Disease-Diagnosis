@@ -5,7 +5,7 @@ Covid-19 Diagnosis Python Flask Web App . It can detect COVID-19 from CT Scan Me
 
 ## Required Tools
 ```
-Python 3.6 or greater, Tensorflow 2, Flask, Gevent, Scikit Learn
+Python 3.6 or greater, Tensorflow 2, Flask, Gevent, Scikit Learn, Scikit Image
 ```
 
 ## Run
